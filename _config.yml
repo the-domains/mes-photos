@@ -6,9 +6,9 @@ color:
   saturation: 0.3275974430143833
   rhythmicContrast: 0.5272377880755812
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#ADD8FB'
+    - '#3D669E'
+    - '#CEA985'
+    - '#815334'
 name: Mes photos
